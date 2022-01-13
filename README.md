@@ -14,11 +14,9 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git buyer-mints-nft
+git clone https://github.com/Polygon-Academy/nftmarketexample
 
-cd buyer-mints-nft
-
-git checkout buyer-mints-nft
+cd nftmarketexample
 ```
 
 ```bash
@@ -36,7 +34,7 @@ yarn start
 > in a second terminal window:
 
 ```bash
-cd simple-nft-example
+cd nftmarketexample
 yarn chain
 
 ```
@@ -49,7 +47,7 @@ yarn chain
 
 
 ```bash
-cd simple-nft-example
+cd nftmarketexample
 
 yarn upload
 
