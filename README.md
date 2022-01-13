@@ -14,7 +14,7 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git buyer-mints-nft
+git clone https://github.com/Polygon-Academy/nftmarketexample
 
 cd buyer-mints-nft
 
