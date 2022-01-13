@@ -17,8 +17,6 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 git clone https://github.com/Polygon-Academy/nftmarketexample
 
 cd buyer-mints-nft
-
-git checkout buyer-mints-nft
 ```
 
 ```bash
